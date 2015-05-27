@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Coca Cola",
+            "price": "25",
+            "image": "http://cdn1.inspirefitresorts.com/wp-content/uploads/2014/06/Coca-Cola.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Pepsi",
+            "price": "24",
+            "image": "http://www.simondanaher.com/mobile/wp2/wp-content/uploads/sites/2/2013/03/ret-Pepsi-Wet-wide-FLT-1920x1280.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Nestea",
+            "price": "18",
+            "image": "http://fc07.deviantart.net/fs32/f/2008/204/d/3/NESTEA_by_Shuma87.jpg"
+        }
+    ]
+}

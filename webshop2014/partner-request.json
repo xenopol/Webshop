@@ -1,0 +1,24 @@
+{
+    "orders": [
+        {
+            "partnerId": "2",
+            "partnerName": "Santiago Donoso",
+            "productId": "1040",
+            "productName": "JSON Electric Guitar",
+            "price": "1999",
+            "clientName": "George Micu",
+            "clientPhone": "91940834",
+            "clientAddress": "Lygten 16Copenhagen127"
+        },
+        {
+            "partnerId": "3",
+            "partnerName": "Sara Vicente",
+            "productId": "1044",
+            "productName": "LIGHT CARDIGAN",
+            "price": "233",
+            "clientName": "George Micu",
+            "clientPhone": "91940834",
+            "clientAddress": "Lygten 16Copenhagen127"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+.outOfStock{
+    margin-top: 0.5em;
+}
+.caption{
+    overflow: hidden;
+}
+.buyProduct{
+    position: absolute;
+    bottom: 2em; /*You nee to change this*/
+}
